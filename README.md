@@ -1,26 +1,34 @@
-# Student Management System
+📌 Student Management System
+📖 Project Description
 
-##  Project Description
-A Java-based Student Management System using JDBC and MySQL for managing student records.
+A Java-based Student Management System using JDBC and MySQL for efficient management of student records. The system performs CRUD operations with a secure database connection.
 
-## ⚙️ Technologies Used
-- Java
-- MySQL
-- JDBC
-- VS Code
+⚙️ Technologies Used
+Java (Core Java)
+MySQL Database
+JDBC (Java Database Connectivity)
+VS Code / Eclipse
+✨ Features
+➕ Add Student Record
+✏️ Update Student Details
+❌ Delete Student Record
+👁️ View Student Information
+🔗 MySQL Database Integration
+🔒 Secure database handling using PreparedStatement
+🗄️ Database Setup
+Create MySQL database
+Run database.sql file
+Tables will be created automatically
+▶️ How to Run Project
+Clone or download the project
+Open in VS Code or Eclipse
+Configure MySQL username & password in code
+Run Main.java file
+📌 Project Outcome
 
-##  Features
-- Add Student
-- Update Student
-- Delete Student
-- View Student Details
-- MySQL Database Integration
+This project demonstrates strong understanding of:
 
-##  How to Run
-1. Import project in VS Code or Eclipse
-2. Setup MySQL database
-3. Run SQL file (database.sql)
-4. Run Main Java file
-
-## 👨‍💻 Author
-MULLAPUDI PRAVALLIKA
+Java OOP concepts
+JDBC connectivity
+SQL database handling
+CRUD operations
