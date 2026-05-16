@@ -6,11 +6,20 @@
 A Java-based Student Management System using JDBC and MySQL for efficient management of student records. The system performs CRUD operations with a secure database connection.
 
 ⚙️ Technologies Used
+
 Java (Core Java)
+
 MySQL Database
+
 JDBC (Java Database Connectivity)
+
+
 VS Code / Eclipse
+
+
 ✨ Features
+
+
 ➕ Add Student Record
 ✏️ Update Student Details
 ❌ Delete Student Record
